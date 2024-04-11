@@ -14,6 +14,6 @@ python manage.py migrate </br>
 python manage.py runserver </br>
 # How to run the Node.js project:
 Go inside user_node folder </br>
-My sure that Node.js , express , mysql2 library is installed. </br>
+Make sure that Node.js , express , mysql2 library is installed. </br>
 Run node server.js command </br>
 
