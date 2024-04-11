@@ -1,5 +1,5 @@
 # user_service
-user_node contains login and registe api in node.js,express and MySql.</br>
+user_node contains login and register api in node.js,express and MySql.</br>
 user_python contains login and signup forms in django and MySql.
 # Table used:
 As multiple tables are created in the database by making the migrations.</br>
